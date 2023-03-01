@@ -60,7 +60,7 @@ const deleteGoals = asyncHandler(async (req,res) => {
 })
 
 
-module.export = {
+module.exports = {
     getGoals,
     postGoals,
     putGoals,
